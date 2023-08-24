@@ -1,0 +1,15 @@
+{
+  "name": "map_server",
+  "version": "1.0.0",
+  "description": "Map server xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "cors": "^2.8.5"
+  },
+  "author": "Geroselly Suryo Adi S",
+  "license": "ISC"
+}
